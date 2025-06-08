@@ -366,8 +366,8 @@
                     <h3 class="product-title">Smartphone Premium</h3>
                     <p class="product-description">O mais avançado smartphone do mercado com tecnologia de ponta e design elegante.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 2.999</span>
-                        R$ 1.999
+                        <span class="old-price">€ 1000</span>
+                        € 399
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
@@ -378,8 +378,8 @@
                     <h3 class="product-title">Laptop Profissional</h3>
                     <p class="product-description">Perfeito para trabalho e estudos, com alta performance e bateria de longa duração.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 4.999</span>
-                        R$ 3.499
+                        <span class="old-price">€ 4.999</span>
+                        €  3.499
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
@@ -390,8 +390,8 @@
                     <h3 class="product-title">Fones Bluetooth</h3>
                     <p class="product-description">Som cristalino e cancelamento de ruído para uma experiência sonora única.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 899</span>
-                        R$ 599
+                        <span class="old-price">€  899</span>
+                       €  599
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
@@ -402,8 +402,8 @@
                     <h3 class="product-title">Smartwatch Fitness</h3>
                     <p class="product-description">Monitore sua saúde e atividades físicas com este smartwatch inteligente.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 1.299</span>
-                        R$ 899
+                        <span class="old-price">€  1.299</span>
+                        €  899
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
@@ -414,8 +414,8 @@
                     <h3 class="product-title">Câmera Digital</h3>
                     <p class="product-description">Capture momentos perfeitos com qualidade profissional em alta resolução.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 3.499</span>
-                        R$ 2.299
+                        <span class="old-price">€  3.499</span>
+                        €  2.299
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
@@ -426,8 +426,8 @@
                     <h3 class="product-title">Console Gaming</h3>
                     <p class="product-description">A melhor experiência em jogos com gráficos incríveis e jogabilidade fluida.</p>
                     <div class="product-price">
-                        <span class="old-price">R$ 2.799</span>
-                        R$ 1.999
+                        <span class="old-price">€  2.799</span>
+                        €  1.999
                     </div>
                     <button class="buy-button" onclick="window.open('#', '_blank')">Comprar Agora</button>
                 </div>
